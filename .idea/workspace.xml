@@ -4,32 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="884870a5-1293-490b-a690-ab2d746eb339" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DAO/EnemyRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DAO/ItemRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Model/Enemy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Model/Item.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Model/Player.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Services/EnemyService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Services/GameRun.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Services/ItemService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Services/SelectionService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Services/WelcomeService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/UTIL/ConnectionUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/UTIL/EnterToContinue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/UTIL/GameMenu.java" afterDir="false" />
+    <list default="true" id="884870a5-1293-490b-a690-ab2d746eb339" name="Changes" comment="initial commit">
+      <change afterPath="$PROJECT_DIR$/src/main/java/BASE_LOGIC/BaseLogic.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,6 +73,14 @@
       <option name="presentableId" value="Default" />
       <updated>1662369284685</updated>
     </task>
+    <task id="LOCAL-00001" summary="initial commit">
+      <created>1662484248069</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1662484248069</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -108,5 +93,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
   </component>
 </project>
